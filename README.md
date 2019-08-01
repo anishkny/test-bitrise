@@ -1,3 +1,4 @@
 # test-bitrise
 
 * a
+* c
