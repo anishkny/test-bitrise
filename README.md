@@ -1,3 +1,3 @@
 # test-bitrise
 
-a
+* a
